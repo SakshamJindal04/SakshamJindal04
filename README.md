@@ -187,18 +187,10 @@ Managing technical and communications workflows for university recruitment cycle
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamJindal04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=A6ACCD" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SakshamJindal04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=A6ACCD" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamJindal04&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=ffffff" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamJindal04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakshamJindal04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&title-text-color=9D4EDD" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SakshamJindal04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF" alt="Top Languages" />
 </p>
 
 ---
